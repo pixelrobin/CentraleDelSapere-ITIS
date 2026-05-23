@@ -1,6 +1,6 @@
 <!-- Sostituisci l'URL qui sotto con il link al tuo banner personalizzato -->
 <p align="center">
-  <img src="Attachments/Centrale del Sapere.png" alt="Banner Centrale del Sapere" width="700"/>
+  <img src="Attachments/Centrale.png" alt="Banner Centrale del Sapere" width="700"/>
 </p>
 
 <h1 align="center">🏛️ Centrale del Sapere - ITIS</h1>
