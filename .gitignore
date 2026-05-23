@@ -1,0 +1,8 @@
+# Ignora le impostazioni locali di Obsidian che cambiano sempre
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/appearance.json
+
+# Se vuoi ignorare le cache dei plugin
+.obsidian/plugins/*/data.json
