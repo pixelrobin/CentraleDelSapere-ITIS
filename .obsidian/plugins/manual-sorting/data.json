@@ -2,6 +2,8 @@
   "customOrder": {
     "/": {
       "children": [
+        "LICENSE",
+        "README.md",
         "Homepage.md",
         "Attachments",
         "Dev-C++",
@@ -16,6 +18,8 @@
     },
     "Attachments": {
       "children": [
+        "Attachments/Centrale.png",
+        "Attachments/Centrale del Sapere.png",
         "Attachments/1422_1.sync-conflict-20251022-212315-6WXHPSC.png",
         "Attachments/2033d67d2833aff9a3910e638f6f95bd7ce0183d_original.sync-conflict-20251022-212315-6WXHPSC.jpeg",
         "Attachments/136379960.sync-conflict-20251022-212315-6WXHPSC.webp",

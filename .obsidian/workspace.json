@@ -11,12 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments/Centrale del Sapere.png"
-              },
-              "icon": "lucide-image",
-              "title": "Centrale del Sapere"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -167,13 +165,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c02820ae6bd9f9a8",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Attachments/Centrale del Sapere.png",
     "Attachments/Centrale.png",
     "Homepage.md",
     "README.md",
     "LICENSE",
-    "Attachments/Centrale del Sapere.png",
     "Inglese/Interrogazioni sui testi (pag. 160-164-166-279).md",
     "Verifiche in arrivo.md",
     "dashboard.css",
