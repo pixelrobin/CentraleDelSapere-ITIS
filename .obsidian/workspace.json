@@ -11,14 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
-                "source": false
+                "file": "Attachments/Centrale del Sapere.png"
               },
-              "icon": "lucide-file",
-              "title": "Homepage"
+              "icon": "lucide-image",
+              "title": "Centrale del Sapere"
             }
           }
         ]
@@ -169,10 +167,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c02820ae6bd9f9a8",
   "lastOpenFiles": [
-    "Attachments/Centrale del Sapere.png",
+    "Attachments/Centrale.png",
     "Homepage.md",
+    "README.md",
+    "LICENSE",
+    "Attachments/Centrale del Sapere.png",
     "Inglese/Interrogazioni sui testi (pag. 160-164-166-279).md",
     "Verifiche in arrivo.md",
     "dashboard.css",
@@ -199,14 +200,12 @@
     "Italiano/Dante/Indice delle cose da sapere su Dante Alighieri.sync-conflict-20260312-184804-AA5X6YR.md",
     "~syncthing~Verifiche in arrivo.md.tmp",
     "Attachments/~syncthing~.trashed-1774368745-Pasted image 20251016212110.sync-conflict-20251022-212315-6WXHPSC.png.tmp",
-    "Italiano/Dante/Convivio.md",
     "Italiano/Dante/~syncthing~Indice delle cose da sapere su Dante Alighieri.md.tmp",
     "Italiano/Dante/~syncthing~le Rime.md.tmp",
     "Italiano/Dante/~syncthing~La vita di Dante.md.tmp",
     "Italiano/Dante/~syncthing~De Vulgari Eloquentia.md.tmp",
     "Italiano/Dante/~syncthing~Introduzione divina commedia.md.tmp",
     "Italiano/Dante/~syncthing~Convivio.md.tmp",
-    "Italiano/Dante/~syncthing~De Monarchia.md.tmp",
     "Attachments/PinDown.io_@MrGreatWonders_1760625048.sync-conflict-20251107-212603-6WXHPSC.jpg",
     "Attachments/Pasted image 20251022202116.png",
     "Attachments/Pasted image 20251023161450.png",
