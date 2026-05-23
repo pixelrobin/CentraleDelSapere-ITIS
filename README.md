@@ -34,7 +34,7 @@
 
 Questo repository è nato per **superare la frammentazione delle conoscenze** e creare una base di sapere condivisa, accessibile e in continua crescita.
 
-L'obiettivo è costruire un **"secondo cervello" collettivo** dove ogni studente può contribuire, consultare e migliorare gli appunti delle materie scolastiche, applicando metodologie di sviluppo software (come il versionamento con Git) alla gestione del nostro apprendimento.
+L'obiettivo è costruire un **"secondo cervello" collettivo** dove ogni studente può contribuire, consultare e migliorare gli appunti delle materie scolastiche, applicando metodologie di sviluppo software alla gestione del nostro apprendimento.
 
 ---
 
@@ -48,7 +48,7 @@ L'obiettivo è costruire un **"secondo cervello" collettivo** dove ogni studente
 
 ---
 
-### 🚀 Guida Rapida all'Installazione
+### 🚀 Guida Rapida all'Installazione del vault su Obsidian
 
 Segui questi passaggi per avere la "Centrale del Sapere" pronta sul tuo PC in pochi minuti.
 
@@ -70,6 +70,26 @@ Segui questi passaggi per avere la "Centrale del Sapere" pronta sul tuo PC in po
     ```
 
 ---
+
+#### 📡 Sincronizzazione Privata con Syncthing (Opzionale)
+
+
+| Sistema Operativo | App Consigliata | Note |
+| :--- | :--- | :--- |
+| <img src="https://simpleicons.org/icons/windows.svg" width="16" /> **Windows** | [**Syncthing Tray**](https://github.com/martchus/syncthingtray) | Ottimo per avere il controllo totale dalla barra delle applicazioni. |
+| <img src="https://simpleicons.org/icons/android.svg" width="16" /> **Android** | [**Syncthing Fork**](https://github.com/Catfriend1/syncthing-android) | Versione potenziata dell'app ufficiale con gestione avanzata della batteria. |
+| <img src="https://simpleicons.org/icons/apple.svg" width="16" /> **iPhone (iOS)** | [**Mobius Sync**](https://www.mobiussync.com/) | L'unica vera soluzione stabile su App Store per integrare Syncthing. |
+| <img src="https://simpleicons.org/icons/archlinux.svg" width="16" /> **Linux (Arch)** | [**Syncthing GTK**](https://github.com/syncthing/syncthing-gtk) | Installa con `sudo pacman -S syncthing-gtk` per una UI nativa e pulita. |
+| <img src="https://simpleicons.org/icons/apple.svg" width="16" /> **Mac** | [**Syncthing-macOS**](https://github.com/syncthing/syncthing-macos) | Bundle completo con comoda icona nella barra dei menu. |
+
+#### 💡 Come configurarlo in 2 minuti:
+1. Installa Syncthing su entrambi i dispositivi (es. PC e Smartphone).
+2. Aggiungi il **"Device ID"** dello smartphone sul PC.
+3. Condividi la cartella del Vault (`CentraleDelSapere-ITIS`).
+4. Accetta la condivisione sullo smartphone e seleziona la cartella locale in cui Obsidian andrà a leggere i file.
+
+---
+
 
 ### 🤝 Come Contribuire
 
@@ -98,8 +118,9 @@ Contribuire è semplice, ma per mantenere l'ordine è fondamentale seguire delle
 
 Un'immagine vale più di mille parole. Ecco come appare la nostra "Centrale del Sapere" in azione!
 
-<!-- Sostituisci l'URL qui sotto con il link al tuo screenshot o GIF -->
-![Esempio del Vault in Obsidian]([URL_DELLO_SCREENSHOT_O_GIF])
+<p align="center">
+  <img src="Attachments/showcase.gif" alt="Esempio del Vault in Obsidian" width="800"/>
+</p>
 
 ---
 
