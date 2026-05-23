@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "4eaadb3c812d5829",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d5d041db39e61f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19cf211020c773c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Italiano/Dante/Indice delle cose da sapere su Dante Alighieri.sync-conflict-20260118-155758-AA5X6YR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Indice delle cose da sapere su Dante Alighieri.sync-conflict-20260118-155758-AA5X6YR"
+            }
+          },
+          {
+            "id": "78a4b972f9acd04a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd2ab01bcc6d5bc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "36a2e50f04dcd708",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c02820ae6bd9f9a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8643473e840b0dfd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "c8c5522be83931a3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6696e06aee604465",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ff39c3da6952325",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab5d7fbbfb43d8b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Italiano/Francesco d'Assisi.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti a Francesco d'Assisi"
+            }
+          },
+          {
+            "id": "acc44e4a506d68c9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Multipli del Byte.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Multipli del Byte"
+            }
+          },
+          {
+            "id": "475f873997be4171",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f16f7e71c08334c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "78a4b972f9acd04a",
+  "lastOpenFiles": [
+    "Italiano/Dante/Convivio.md",
+    "Italiano/Dante/Indice delle cose da sapere su Dante Alighieri.md",
+    "Italiano/Dante/De Monarchia.md",
+    "Italiano/Dante/De Vulgari Eloquentia.md",
+    "Italiano/Dante/le Rime.md",
+    "Italiano/Dante/Vita Nova.md",
+    "Italiano/Dante/La vita di Dante.md",
+    "Italiano/Dante/Introduzione divina commedia.md",
+    "Italiano/Francesco d'Assisi.md",
+    "Italiano/Dante/~syncthing~Indice delle cose da sapere su Dante Alighieri.md.tmp",
+    "Italiano/Dante/~syncthing~le Rime.md.tmp",
+    "Italiano/Dante/~syncthing~La vita di Dante.md.tmp",
+    "Italiano/Dante/~syncthing~De Vulgari Eloquentia.md.tmp",
+    "TPSIT/Lezioni 2-6/Multipli del Byte.sync-conflict-20260102-104045-6WXHPSC.md",
+    "Italiano/Dante/~syncthing~Introduzione divina commedia.md.tmp",
+    "~syncthing~Verifiche in arrivo.md.tmp",
+    "Italiano/Dante/~syncthing~Convivio.md.tmp",
+    "Italiano/Dante/~syncthing~De Monarchia.md.tmp",
+    "Italiano/Dante/~syncthing~Vita Nova.md.tmp",
+    "Italiano/Dante/De volgari eloquentia.md",
+    "Italiano/Guido Cavalcanti.md",
+    "Inglese/Interrogazioni sui testi (pag. 160-164-166-279).md",
+    "Verifiche in arrivo.md",
+    "Italiano/Dante",
+    "Storia/Verifica 22.10/CAPITOLO 3.md",
+    "Storia/Verifica 22.10/UNITA' 1.md",
+    "Storia/CAPITOLO 2.sync-conflict-20251107-212603-XSHBGF4.md",
+    "Italiano/Jacopo da Lentini.md",
+    "Italiano/Guido Guinizzelli.md",
+    "Italiano/Poesie in Italia tra il 200 e 300.md",
+    "TPSIT/Lezioni 2-6/Multipli del Byte.md",
+    "TPSIT/Lezioni 2-6/Multipli del Byte.sync-conflict-20251107-212559-6WXHPSC.md",
+    "Sistemi e Reti/Sistemi e Reti.md",
+    "Sistemi e Reti/Unità2/Lezione 3.md",
+    "Sistemi e Reti/Unità2/Lezione 2.md",
+    "Attachments/PinDown.io_@MrGreatWonders_1760625048.sync-conflict-20251107-212603-6WXHPSC.jpg",
+    "Attachments/Pasted image 20251022202116.png",
+    "Attachments/Pasted image 20251023161450.png",
+    "Attachments/Pasted image 20251023160349.png",
+    "Attachments/Pasted image 20251016212235.sync-conflict-20251022-212315-6WXHPSC.png",
+    "Attachments/Pasted image 20251016212802.sync-conflict-20251022-212315-6WXHPSC.png",
+    "Attachments/Pasted image 20251017185047.sync-conflict-20251022-212315-6WXHPSC.png",
+    "Attachments/Pasted image 20251016220005.sync-conflict-20251022-212315-6WXHPSC.png",
+    "Attachments/2033d67d2833aff9a3910e638f6f95bd7ce0183d_original.sync-conflict-20251022-212315-6WXHPSC.jpeg",
+    "Attachments/Pasted image 20251017191839.sync-conflict-20251022-212315-6WXHPSC.png",
+    "Untitled.canvas",
+    "Senza nome.canvas",
+    "Senza nome 1.canvas"
+  ]
+}

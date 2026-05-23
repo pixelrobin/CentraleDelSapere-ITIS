@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd2ab01bcc6d5bc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "36a2e50f04dcd708",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c02820ae6bd9f9a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "custom",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8643473e840b0dfd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "c8c5522be83931a3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6696e06aee604465",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ff39c3da6952325",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab5d7fbbfb43d8b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Italiano/Francesco d'Assisi.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti a Francesco d'Assisi"
+            }
+          },
+          {
+            "id": "acc44e4a506d68c9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Multipli del Byte.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Multipli del Byte"
+            }
+          },
+          {
+            "id": "475f873997be4171",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f16f7e71c08334c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Attachments/Centrale del Sapere.png",
+    "Homepage.md",
+    "Inglese/Interrogazioni sui testi (pag. 160-164-166-279).md",
+    "Verifiche in arrivo.md",
+    "dashboard.css",
+    "Dev-C++/Algebra Booleana.md",
+    "Dev-C++/0.README INFORMATICA.md",
+    "Storia/Verifica 22.10/ARGOMENTI VERIFICA.md",
+    "Storia/CAPITOLO 2.sync-conflict-20251107-212603-XSHBGF4.md",
+    "Sistemi e Reti/Sistemi e Reti.md",
+    "Sistemi e Reti/Unità1/11.CISC e RISC.md",
+    "Sistemi e Reti/Unità1/10. Pipeline.md",
+    "Sistemi e Reti/Unità1/9. Il ciclo macchina.md",
+    "Sistemi e Reti/Unità1/6. Memorie secondarie.md",
+    "Sistemi e Reti/Unità1/3. I bus.md",
+    "Sistemi e Reti/Unità1/4. La cache.md",
+    "Sistemi e Reti/Unità1/2. La CPU.md",
+    "Sistemi e Reti/Unità1/1. Il modello funzionale.md",
+    "Italiano/Poesie in Italia tra il 200 e 300.md",
+    "Italiano/Jacopo da Lentini.md",
+    "Italiano/Guido Guinizzelli.md",
+    "Italiano/Guido Cavalcanti.md",
+    "Dev-C++/IF.md",
+    "Dev-C++/CICLI.md",
+    "Dev-C++/C++ Basi.md",
+    "Italiano/Dante/Indice delle cose da sapere su Dante Alighieri.sync-conflict-20260312-184804-AA5X6YR.md",
+    "~syncthing~Verifiche in arrivo.md.tmp",
+    "Attachments/~syncthing~.trashed-1774368745-Pasted image 20251016212110.sync-conflict-20251022-212315-6WXHPSC.png.tmp",
+    "Italiano/Dante/Convivio.md",
+    "Italiano/Dante/~syncthing~Indice delle cose da sapere su Dante Alighieri.md.tmp",
+    "Italiano/Dante/~syncthing~le Rime.md.tmp",
+    "Italiano/Dante/~syncthing~La vita di Dante.md.tmp",
+    "Italiano/Dante/~syncthing~De Vulgari Eloquentia.md.tmp",
+    "Italiano/Dante/~syncthing~Introduzione divina commedia.md.tmp",
+    "Italiano/Dante/~syncthing~Convivio.md.tmp",
+    "Italiano/Dante/~syncthing~De Monarchia.md.tmp",
+    "Attachments/PinDown.io_@MrGreatWonders_1760625048.sync-conflict-20251107-212603-6WXHPSC.jpg",
+    "Attachments/Pasted image 20251022202116.png",
+    "Attachments/Pasted image 20251023161450.png",
+    "Attachments/Pasted image 20251023160349.png",
+    "Attachments/Pasted image 20251016212235.sync-conflict-20251022-212315-6WXHPSC.png",
+    "Attachments/Pasted image 20251016212802.sync-conflict-20251022-212315-6WXHPSC.png",
+    "Attachments/Pasted image 20251017185047.sync-conflict-20251022-212315-6WXHPSC.png",
+    "Attachments/Pasted image 20251016220005.sync-conflict-20251022-212315-6WXHPSC.png",
+    "Attachments/2033d67d2833aff9a3910e638f6f95bd7ce0183d_original.sync-conflict-20251022-212315-6WXHPSC.jpeg",
+    "Untitled.canvas",
+    "Senza nome.canvas",
+    "Senza nome 1.canvas"
+  ]
+}

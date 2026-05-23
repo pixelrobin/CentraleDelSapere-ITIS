@@ -1,0 +1,7 @@
+il **Monarchia** è un trattato politico in cui si riferisce all'impero, scritta in latino perchè è rivolto a tutti gli intellettuali italiani,  tra il 1313 e il 1318.  Dante scrive il Monarchia durante il suo esilio, in un periodo in cui l’Italia è frammentata tra lotte politiche e interferenze del papato negli affari civili, e Dante intende proporre una soluzione razionale e universale ai conflitti del suo tempo.
+Il Monarchia è composto da **tre libri**, ciascuno dedicato a una tesi:
+- **I libro:** Dante afferma che l'impero è la sola istituzione che può generare la giustizia e la pace del mondo 
+- **II libro:** Dante dimostra che l'autorità imperiale è stata concessa da Dio al popolo romano che unificò e pacificò il modo, l’Impero romano rappresenta il modello politico ideale non solo per la pace e la giustizia, ma anche per la **crescita civile, culturale e intellettuale dell’umanità**. Ad esempio creando leggi e istruzione per tutti 
+- **III libro:** Dante tratta il rapporto tra la Chiesa e Impero e sostenere la **teoria dei due soli** secondo cui **Impero** e **Chiesa** sono come **due soli**, cioè due poteri distinti che illuminano e guidano l’umanità in ambiti diversi
+
+[[Indice delle cose da sapere su Dante Alighieri]]

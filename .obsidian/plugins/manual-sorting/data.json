@@ -1,0 +1,222 @@
+{
+  "customOrder": {
+    "/": {
+      "children": [
+        "Homepage.md",
+        "Attachments",
+        "Dev-C++",
+        "Inglese",
+        "Italiano",
+        "Sistemi e Reti",
+        "Storia",
+        "TPSIT",
+        "Verifiche in arrivo.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Attachments": {
+      "children": [
+        "Attachments/1422_1.sync-conflict-20251022-212315-6WXHPSC.png",
+        "Attachments/2033d67d2833aff9a3910e638f6f95bd7ce0183d_original.sync-conflict-20251022-212315-6WXHPSC.jpeg",
+        "Attachments/136379960.sync-conflict-20251022-212315-6WXHPSC.webp",
+        "Attachments/1692861675331-1-01 (69).sync-conflict-20251022-212315-6WXHPSC.png",
+        "Attachments/active cooling.sync-conflict-20251022-212315-6WXHPSC.jpg",
+        "Attachments/atx-24-pin-12v-power-supply-pinout-2624578-bd809482596447b7afa7c63232719560.sync-conflict-20251022-212315-6WXHPSC.png",
+        "Attachments/Chipset_schematic.svg",
+        "Attachments/CP-8920141_01.sync-conflict-20251022-212315-6WXHPSC.avif",
+        "Attachments/Intel_CPU_Pentium_4_640_Prescott_bottom.sync-conflict-20251022-212315-6WXHPSC.jpg",
+        "Attachments/passive cooling.sync-conflict-20251022-212315-6WXHPSC.jpg",
+        "Attachments/Pasted image 20251015171256.sync-conflict-20251022-212315-6WXHPSC.png",
+        "Attachments/Pasted image 20251015173741.sync-conflict-20251022-212315-6WXHPSC.png",
+        "Attachments/Pasted image 20251015180803.sync-conflict-20251022-212315-6WXHPSC.png",
+        "Attachments/Pasted image 20251015184030.sync-conflict-20251022-212315-6WXHPSC.png",
+        "Attachments/Pasted image 20251016170654.sync-conflict-20251022-212315-6WXHPSC.png",
+        "Attachments/Pasted image 20251016212235.sync-conflict-20251022-212315-6WXHPSC.png",
+        "Attachments/Pasted image 20251016212530.sync-conflict-20251022-212315-6WXHPSC.png",
+        "Attachments/Pasted image 20251016212802.sync-conflict-20251022-212315-6WXHPSC.png",
+        "Attachments/Pasted image 20251016212927.sync-conflict-20251022-212315-6WXHPSC.png",
+        "Attachments/Pasted image 20251016214205.sync-conflict-20251022-212315-6WXHPSC.png",
+        "Attachments/Pasted image 20251016220005.sync-conflict-20251022-212315-6WXHPSC.png",
+        "Attachments/Pasted image 20251016220127.sync-conflict-20251022-212315-6WXHPSC.png",
+        "Attachments/Pasted image 20251017175147.sync-conflict-20251022-212315-6WXHPSC.png",
+        "Attachments/Pasted image 20251017175735.sync-conflict-20251022-212315-6WXHPSC.png",
+        "Attachments/Pasted image 20251017185047.sync-conflict-20251022-212315-6WXHPSC.png",
+        "Attachments/Pasted image 20251017185131.sync-conflict-20251022-212315-6WXHPSC.png",
+        "Attachments/Pasted image 20251017191716.sync-conflict-20251022-212315-6WXHPSC.png",
+        "Attachments/Pasted image 20251017191822.sync-conflict-20251022-212315-6WXHPSC.png",
+        "Attachments/Pasted image 20251017191839.sync-conflict-20251022-212315-6WXHPSC.png",
+        "Attachments/Pasted image 20251017192107.sync-conflict-20251022-212315-6WXHPSC.png",
+        "Attachments/Pasted image 20251019185819.png",
+        "Attachments/Pasted image 20251019185955.png",
+        "Attachments/Pasted image 20251019220123.png",
+        "Attachments/Pasted image 20251019220621.png",
+        "Attachments/Pasted image 20251020200828.png",
+        "Attachments/Pasted image 20251020201622.png",
+        "Attachments/Pasted image 20251020204323.png",
+        "Attachments/Pasted image 20251020204436.png",
+        "Attachments/Pasted image 20251020204545.png",
+        "Attachments/Pasted image 20251020204655.png",
+        "Attachments/Pasted image 20251020205811.png",
+        "Attachments/Pasted image 20251020205940.png",
+        "Attachments/Pasted image 20251020210107.png",
+        "Attachments/Pasted image 20251022180551.png",
+        "Attachments/Pasted image 20251022180845.png",
+        "Attachments/Pasted image 20251022182742.png",
+        "Attachments/Pasted image 20251022183539.png",
+        "Attachments/Pasted image 20251022185801.png",
+        "Attachments/Pasted image 20251022185824.png",
+        "Attachments/Pasted image 20251022192958.png",
+        "Attachments/Pasted image 20251022202116.png",
+        "Attachments/Pasted image 20251022210648.png",
+        "Attachments/Pasted image 20251023160349.png",
+        "Attachments/PinDown.io_@MrGreatWonders_1760625048.sync-conflict-20251107-212603-6WXHPSC.jpg",
+        "Attachments/RAM_module_SDRAM_1GiB.sync-conflict-20251022-212315-6WXHPSC.jpg",
+        "Attachments/s-l1200.sync-conflict-20251022-212315-6WXHPSC.jpg",
+        "Attachments/Una_EPROM_con_cancellazione_dei_dati_mediante_raggi_UV.sync-conflict-20251022-212315-6WXHPSC.jpg",
+        "Attachments/XC68020_bottom_p1160085 1.sync-conflict-20251022-212315-6WXHPSC.jpg"
+      ],
+      "sortOrder": "custom"
+    },
+    "Dev-C++": {
+      "children": [
+        "Dev-C++/0.README INFORMATICA.md",
+        "Dev-C++/Algebra Booleana.md",
+        "Dev-C++/C++ Basi.md",
+        "Dev-C++/CICLI.md",
+        "Dev-C++/IF.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Inglese": {
+      "children": [
+        "Inglese/Interrogazioni sui testi (pag. 160-164-166-279).md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Italiano": {
+      "children": [
+        "Italiano/Dante",
+        "Italiano/Francesco d'Assisi.md",
+        "Italiano/Guido Cavalcanti.md",
+        "Italiano/Guido Guinizzelli.md",
+        "Italiano/Jacopo da Lentini.md",
+        "Italiano/Poesie in Italia tra il 200 e 300.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Italiano/Dante": {
+      "children": [
+        "Italiano/Dante/Convivio.md",
+        "Italiano/Dante/De Monarchia.md",
+        "Italiano/Dante/De Vulgari Eloquentia.md",
+        "Italiano/Dante/Indice delle cose da sapere su Dante Alighieri.md",
+        "Italiano/Dante/Indice delle cose da sapere su Dante Alighieri.sync-conflict-20260118-155758-AA5X6YR.md",
+        "Italiano/Dante/Indice delle cose da sapere su Dante Alighieri.sync-conflict-20260119-143658-AA5X6YR.md",
+        "Italiano/Dante/Indice delle cose da sapere su Dante Alighieri.sync-conflict-20260312-184804-AA5X6YR.md",
+        "Italiano/Dante/Introduzione divina commedia.md",
+        "Italiano/Dante/La vita di Dante.md",
+        "Italiano/Dante/le Rime.md",
+        "Italiano/Dante/Vita Nova.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Sistemi e Reti": {
+      "children": [
+        "Sistemi e Reti/Unità1",
+        "Sistemi e Reti/Unità2",
+        "Sistemi e Reti/Sistemi e Reti.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Sistemi e Reti/Unità1": {
+      "children": [
+        "Sistemi e Reti/Unità1/1. Il modello funzionale.md",
+        "Sistemi e Reti/Unità1/2. La CPU.md",
+        "Sistemi e Reti/Unità1/3. I bus.md",
+        "Sistemi e Reti/Unità1/4. La cache.md",
+        "Sistemi e Reti/Unità1/5. Memoria Centrale.md",
+        "Sistemi e Reti/Unità1/6. Memorie secondarie.md",
+        "Sistemi e Reti/Unità1/7. Periferiche e le loro applicazioni.md",
+        "Sistemi e Reti/Unità1/9. Il ciclo macchina.md",
+        "Sistemi e Reti/Unità1/10. Pipeline.md",
+        "Sistemi e Reti/Unità1/11.CISC e RISC.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Sistemi e Reti/Unità2": {
+      "children": [
+        "Sistemi e Reti/Unità2/Lezione 1.md",
+        "Sistemi e Reti/Unità2/Lezione 2.md",
+        "Sistemi e Reti/Unità2/Lezione 3.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Storia": {
+      "children": [
+        "Storia/Verifica 22.10"
+      ],
+      "sortOrder": "custom"
+    },
+    "Storia/Verifica 22.10": {
+      "children": [
+        "Storia/Verifica 22.10/ARGOMENTI VERIFICA.md",
+        "Storia/Verifica 22.10/CAPITOLO 1.md",
+        "Storia/Verifica 22.10/CAPITOLO 2.md",
+        "Storia/Verifica 22.10/CAPITOLO 3.md",
+        "Storia/Verifica 22.10/UNITA' 1.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "TPSIT": {
+      "children": [
+        "TPSIT/Appunti Hardware",
+        "TPSIT/Lezioni 2-6"
+      ],
+      "sortOrder": "custom"
+    },
+    "TPSIT/Appunti Hardware": {
+      "children": [
+        "TPSIT/Appunti Hardware/memory",
+        "TPSIT/Appunti Hardware/0.README HARDWARE TPSIT.md",
+        "TPSIT/Appunti Hardware/Alimentatori.md",
+        "TPSIT/Appunti Hardware/CONNETTORI.md",
+        "TPSIT/Appunti Hardware/CPU.md",
+        "TPSIT/Appunti Hardware/MEMORIE.md",
+        "TPSIT/Appunti Hardware/Northbridge e Southbridge.md",
+        "TPSIT/Appunti Hardware/Schede Madri.md",
+        "TPSIT/Appunti Hardware/Sistemi di raffreddamento.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "TPSIT/Appunti Hardware/memory": {
+      "children": [
+        "TPSIT/Appunti Hardware/memory/Cache.md",
+        "TPSIT/Appunti Hardware/memory/memory-errors.md",
+        "TPSIT/Appunti Hardware/memory/Moduli di Memoria.md",
+        "TPSIT/Appunti Hardware/memory/RAM.md",
+        "TPSIT/Appunti Hardware/memory/ROM.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "TPSIT/Lezioni 2-6": {
+      "children": [
+        "TPSIT/Lezioni 2-6/0.INDICE.md",
+        "TPSIT/Lezioni 2-6/Analogico vs Digitale.md",
+        "TPSIT/Lezioni 2-6/BIT.md",
+        "TPSIT/Lezioni 2-6/Codice Binario.md",
+        "TPSIT/Lezioni 2-6/CONVERSIONI.md",
+        "TPSIT/Lezioni 2-6/Dati Alfabetici.md",
+        "TPSIT/Lezioni 2-6/Digitalizzazione.md",
+        "TPSIT/Lezioni 2-6/Multipli del Byte.md",
+        "TPSIT/Lezioni 2-6/Multipli del Byte.sync-conflict-20251107-212559-6WXHPSC.md",
+        "TPSIT/Lezioni 2-6/Rappresentazione dati numerici.md",
+        "TPSIT/Lezioni 2-6/Raster vs Vettoriale.md",
+        "TPSIT/Lezioni 2-6/RGB vs CMYK.md"
+      ],
+      "sortOrder": "custom"
+    }
+  },
+  "sortOrder": "custom",
+  "debugMode": false,
+  "newItemPlacement": "top"
+}

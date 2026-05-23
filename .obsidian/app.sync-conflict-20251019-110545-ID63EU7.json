@@ -1,0 +1,8 @@
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "attachments",
+  "promptDelete": false,
+  "spellcheck": false,
+  "showLineNumber": false,
+  "readableLineLength": true
+}

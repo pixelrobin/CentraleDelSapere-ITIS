@@ -1,0 +1,3 @@
+Il **Convivio** è un’opera dottrinaria di **Dante Alighieri**, composta in volgare tra circa il 1304 e il 1307. È un prosimetro con scopo educativo, Dante desidera offrire un “**banchetto di sapienza**” accessibile non solo ai dotti formati in latino, ma anche a chi non aveva ricevuto un’istruzione formale, motivo per cui sceglie il volgare.
+l'opera è un **prosimetro** perché Dante intende offrire la conoscenza come quando si offre l'acqua quando si mangia il pane, serve per mandare giù meglio il pane e in questo caso serve per capire bene ciò che lui scrive e poter capire meglio i significati presenti nel testo che sono quello **letterario** e quello **allegorico**.
+[[Indice delle cose da sapere su Dante Alighieri]]
